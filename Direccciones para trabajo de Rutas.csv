@@ -1,0 +1,77 @@
+﻿ID;Nombre;Dirección;Latitud;Longitud;Peso
+0;Bodega Transportador;Calle 30 # 19-71. Barranquilla, Atlántico, Colombia;10,955619;-74,786465;-
+1;Cliente 1;Calle 83C # 14 - 80. Soledad, Atlántico, Colombia;10,915882;-74,821294;50
+2;Cliente 2;Calle 23 # 18A-38. Baranoa, Atlántico, Colombia;10,793384;-74,907797;55
+3;Cliente 3;Carrera 21 #26-41. Malambo, Atlántico, Colombia;10,869039;-74,783890;62
+4;Cliente 4;Calle 34D # 1A-53. Barranquilla, Atlántico, Colombia;10,934362;-74,788225;74
+5;Cliente 5;Calle 24A # 26B-16. Soledad, Atlántico, Colombia;10,924749;-74,769078;68
+6;Cliente 6;Calle 76B # 12E-03. Soledad, Atlántico, Colombia;10,911698;-74,810359;40
+7;Cliente 7;Carrera 9G # 131 - 30. Barranquilla, Atlántico, Colombia;10,959139;-74,856083;46
+8;Cliente 8;Carrera 16A #76E-36. Soledad, Atlántico, Colombia;10,914611;-74,811225;85
+9;Cliente 9;Calle 76B #12B-45 Soledad, Atlántico, Colombia;10,911251;-74,810532;83
+10;Cliente 10;Carrera 11C #48-53. Soledad, Atlántico, Colombia;10,906587;-74,785870;46
+11;Cliente 11;Calle 43 # 33-100. Barranquilla, Atlántico, Colombia;10,975087;-74,786374;59
+12;Cliente 12;Calle 53 # 52-68. Barranquilla, Atlántico, Colombia;10,992039;-74,788729;56
+13;Cliente 13;Carrera 16 # 52-87. Soledad, Atlántico, Colombia;10,914610;-74,790173;57
+14;Cliente 14;Carrera 15 #57-276. Soledad, Atlántico, Colombia;10,911214;-74,797805;50
+15;Cliente 15;Carrera 2 # 19-97. Barranquilla, Atlántico, Colombia;10,937160;-74,780820;44
+16;Cliente 16;Calle 13B # 28-26. Malambo, Atlántico, Colombia;10,870891;-74,773312;75
+17;Cliente 17;Carrera 14 # 83C-46. Soledad, Atlántico, Colombia;10,915407;-74,822139;56
+18;Cliente 18;Calle 70C  # 34-15. Barranquilla, Atlántico, Colombia;10,983014;-74,810416;50
+19;Cliente 19;Cra 26D #74B 21. Barranquilla, Atlántico, Colombia;10,978918;-74,814610;65
+20;Cliente 20;Carrera 12 #52-56. Soledad, Atlántico, Colombia;10,906180;-74,790003;40
+21;Cliente 21;Calle 24 #35-21. Soledad, Atlántico, Colombia;10,929660;-74,768129;42
+22;Cliente 22;Calle 117 # 42B-25. Barranquilla, Atlántico, Colombia;10,992691;-74,847387;77
+23;Cliente 23;Calle 23A #39-04. Soledad, Atlántico, Colombia;10,934323;-74,767756;58
+24;Cliente 24;Calle 71B #22-55. Barranquilla, Atlántico, Colombia ;10,969829;-74,812177;73
+25;Cliente 25;carrera 23 #15A-188. Malambo, Atlántico, Colombia;10,867992;-74,776541;77
+26;Cliente 26;Carrera 9B #77-31. Barranquilla, Atlántico, Colombia,;10,957858;-74,821905;40
+27;Cliente 27;Calle 13 # 3-71. Palmar de Varela, Atlántico, Colombia;10,746389;-74,756389;67
+28;Cliente 28;Calle 91#75A-05. Barranquilla, Atlántico, Colombia;11,023480;-74,812200;66
+29;Cliente 29;Calle 86 #52-18. Barranquilla, Atlántico, Colombia;11,008087;-74,818977;60
+30;Cliente 30;Carrera 31 #68C-55. Barranquilla, Atlántico, Colombia;10,980296;-74,806977;65
+31;Cliente 31;Carrera 12b # 75-57. Soledad, Atlántico, Colombia;10,912357;-74,808894;55
+32;Cliente 32;Calle 62A # 22E-05. Soledad, Atlántico, Colombia;10,920020;-74,798220;72
+33;Cliente 33;Calle 17D#20A-63 Malambo, Atlántico, Colombia;10,867690;-74,777907;42
+34;Cliente 34;Calle 116 # 42B-91. Barranquilla, Atlántico, Colombia;10,994197;-74,848081;49
+35;Cliente 35;Carrera 27#82B-44. Barranquilla, Atlántico, Colombia;10,979544;-74,823573;73
+36;Cliente 36;Calle 61 #21B-40. Barranquilla, Atlántico, Colombia;10,969075;-74,803511;83
+37;Cliente 37;Calle 65 #28-26. Barranquilla, Atlántico, Colombia;10,977193;-74,805430;77
+38;Cliente 38;Carrera 4A #34C-18, Barranquilla, Atlántico, Colombia;10,939758;-74,788930;40
+39;Cliente 39;Calle 51 # 43B-29. Barranquilla, Atlántico, Colombia;10,985625;-74,790393;46
+40;Cliente 40;Calle 7 # 10E-16. Puerto Colombia, Atlántico, Colombia;10,990778;-74,951785;49
+41;Cliente 41;Calle 3B# transversal 3B-311 Puerto Colombia, Atlántico, Colombia;11,020316;-74,868094;64
+42;Cliente 42;Carrera 35D #81D-72. Barranquilla, Atlántico, Colombia;10,983634;-74,824372;80
+43;Cliente 43;Carrera 37c # 26-90. Soledad, Atlántico, Colombia;10,932593;-74,771297;85
+44;Cliente 44;Calle 77 # 9B-35. Barranquilla, Atlántico, Colombia;10,956373;-74,821566;40
+45;Cliente 45;Calle 41# 7F-16. Barranquilla, Atlántico, Colombia;10,944633;-74,796165;47
+46;Cliente 46;Calle 27b # 15-06.  Barranquilla, Atlántico, Colombia;10,952188;-74,785301;60
+47;Cliente 47;Calle 134 #8G-102. Barranquilla, Atlántico, Colombia;10,955717;-74,858114;80
+48;Cliente 48;Calle 51 # 9D-108. Barranquilla, Atlántico, Colombia;10,952066;-74,804739;66
+49;Cliente 49;Calle 81# 35D-88 Barranquilla, Atlántico, Colombia;10,985092;-74,821652;70
+50;Cliente 50;Calle 62 # 1B-43. Barranquilla, Atlántico, Colombia;10,933969;-74,815252;75
+51;Cliente 51;Carrera 20b#16-36. Riomar.Barranquilla, Atlántico, Colombia;11,027971;-74,871189;59
+52;Cliente 52;Carrera 16 #23-35. Barranquilla, Atlántico, Colombia;10,953794;-74,777983;76
+53;Cliente 53;Calle 51 #13B-24. Barranquilla, Atlántico, Colombia;10,955393;-74,801820;42
+54;Cliente 54;Calle 114 # 42 - 27. Barranquilla, Atlántico, Colombia;10,991552;-74,843696;52
+55;Cliente 55;Carrera 26 #43-05. Soledad, Atlántico, Colombia;10,922827;-74,784451;41
+56;Cliente 56;Calle 70C#24C-38 Barranquilla, Atlántico, Colombia;10,974229;-74,810198;45
+57;Cliente 57;Calle 50 #13-33. Barranquilla, Atlántico, Colombia;10,954979;-74,802082;64
+58;Cliente 58;Carrera 39b # 65-16. Barranquilla, Atlántico, Colombia;10,985197;-74,800971;44
+59;Cliente 59;Calle 36b #7c-34. Barranquilla, Atlántico, Colombia ;10,944116;-74,791759;78
+60;Cliente 60;Carrera 46 #56-61. Barranquilla, Atlántico, Colombia;10,989469;-74,793226;42
+61;Cliente 61;Calle 72 #22c-17. Soledad, Atlántico, Colombia;10,919812;-74,805187;70
+62;Cliente 62;Calle 41B #1F-124 Barranquilla, Atlántico, Colombia ;10,933320;-74,794654;83
+63;Cliente 63;Calle 70c # 9-35 . Soledad, Atlántico, Colombia ;10,902553;-74,809166;55
+64;Cliente 64;Cra. 7h # 35-79. Barranquilla, Atlántico, Colombia;10,945665;-74,790794;80
+65;Cliente 65;Carrera 15a1 # 53b-64, Soledad, Atlántico, Colombia;10,911342;-74,791782;76
+66;Cliente 66;Calle 45A4 #18b-07. Soledad, Atlántico, Colombia ;10,919330;-74,788946;55
+67;Cliente 67;Carrera 17C #76B-26 Soledad, Atlántico, Colombia;10,915706;-74,809850;40
+68;Cliente 68;Carrera 43#75b-143. Barranquilla, Atlántico, Colombia ;10,994460;-74,812280;40
+69;Cliente 69;Calle 72A #16-15 Soledad, Atlántico, Colombia;10,914621;-74,805150;48
+70;Cliente 70;Carrera 26a #79a-20 Barranquilla, Atlántico, Colombia;10,977293;-74,819892;77
+71;Cliente 71;Carrera 27 # 53d - 17 Barranquilla, Atlántico, Colombia;10,975212;-74,797665;64
+72;Cliente 72;Cra 41D # 74-95. Barranquilla, Atlántico, Colombia;10,991525;-74,811231;55
+73;Cliente 73;Carrera 16 #74-41. Barranquilla, Atlántico, Colombia ;10,966520;-74,814623;65
+74;Cliente 74;Calle 70#7D-284.Soledad, Atlántico, Colombia;10,902430;-74,807570;49
+;;;;;
